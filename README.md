@@ -1,9 +1,9 @@
 # Uber & Lyft Cab Prices Prediction
 
-📄 **[Read the full report](Uber%20&%20Lyft%20Cab%20Prices%20Prediction.pdf)**
-
 **Authors:** Aaron Perkey, Dillon Kim
 **Course:** CSCE 478/878 — Machine Learning
+
+📄 **[Read the full report](Uber%20&%20Lyft%20Cab%20Prices%20Prediction.pdf)**
 
 ## Overview
 Ride-sharing services like Uber and Lyft have prices that change depending on the time, location, and weather. This project set out to predict cab ride prices using machine learning by looking at both ride data, like distance, source, and destination, and weather data, such as temperature and visibility. We were curious whether we could accurately forecast prices and offer practical insight to help users or businesses pick the most cost-effective times to ride.
