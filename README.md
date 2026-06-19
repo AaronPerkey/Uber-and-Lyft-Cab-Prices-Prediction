@@ -2,7 +2,6 @@
 
 **Authors:** Aaron Perkey, Dillon Kim
 **Course:** CSCE 478/878 — Machine Learning
-**Report:** 
 
 ## Overview
 
